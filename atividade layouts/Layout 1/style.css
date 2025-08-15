@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cabecalho{
+    background-color: #3750B3;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    height: 71px;
+    
+
+   
+    
+}
+.list{
+    display: flex;
+    list-style: none;
+    padding-right: 30px;
+    font-size: 12px;
+     
+    
+}
+
+.list-item{
+    padding: 16px;
+    width: 48px;
+    height: 15px;
+    align-items: center;
+}
+
+.logo{
+    width:34px;
+    height: 15px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    font-size: 12px;
+
+
+}
+
+.img{
+    background-image: url(../assets/Rectangle\ 3\ \(1\).png);
+    width: 1300px;
+    height: 427px;
+}
